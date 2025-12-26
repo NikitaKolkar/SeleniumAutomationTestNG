@@ -27,7 +27,7 @@ The project covers the following areas of the Automation Exercise website:
 - Contact Us Page 
 - Add Review on the Products
 
-## Features ✨
+## Features 
 - **Hybrid Framework**: Combines Data-Driven and Modular approaches.
 - **Page Object Model (POM)**: Encapsulates page elements and actions for cleaner test scripts.
 - **Logging**: Configured with Log4j for detailed execution logs.
