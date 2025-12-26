@@ -48,7 +48,7 @@ The project covers the following areas of the Automation Exercise website:
 
 ## Test Cases
 
-The test cases are written in the . Each test case covers various aspects of the Automation Exercise website, ensuring comprehensive coverage.<br><br>Please refer the Test Cases Excel for complete details - Automation Exercise Test Cases.xlsx
+The test cases are written in the . Each test case covers various aspects of the Automation Exercise website, ensuring comprehensive coverage.<br><br>Please refer the Test Cases Excel for complete details - https://github.com/NikitaKolkar/SeleniumAutomationTestNG/blob/5ffe33509e81808bfd4b76c9984f5f7142b9bb1b/Automation%20Exercise%20Test%20Cases.xlsx
 
 ## :warning: Note:
 The tests have been run in chrome/edge in private mode, which blocks ads. However, it is possible that the test may not work in other browsers due to pop-up ads that require closing.
