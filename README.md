@@ -9,7 +9,7 @@ The project was created to practice test automation skills using the Selenium (J
 - [Features](#Features)
 - [Tools and Technologies Used](#Tools-and-Technologies-Used)
 - [Test Cases](#Test-Cases)
-- [Note](#note)
+- [Note](#warning-note)
 
 ## Introduction
 
