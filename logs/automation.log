@@ -1,0 +1,86 @@
+19:02:47.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:02:52.661 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:02:54.033 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:02:54.039 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:03:03.626 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:03:04.015 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:03:04.057 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:03:05.286 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product
+19:08:07.683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:08:34.066 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:08:36.320 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:08:36.329 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:08:45.808 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:08:46.115 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:08:46.153 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:08:47.590 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product
+19:11:09.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:11:15.496 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:11:16.850 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:11:16.856 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:11:26.191 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:11:26.397 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:11:26.421 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:11:28.158 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product
+19:13:16.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:13:22.671 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:13:24.014 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:13:24.021 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:14:20.911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:14:26.254 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:14:27.699 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:14:27.701 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:14:35.327 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:14:35.706 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:14:35.740 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:14:37.138 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product
+19:16:10.376 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:16:37.342 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:16:39.481 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:16:39.482 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:16:48.462 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:16:48.816 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:16:48.863 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:16:50.011 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product
+19:19:10.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:19:17.179 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:19:19.355 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:19:19.358 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:19:28.505 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:19:28.974 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:19:29.006 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:19:30.309 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product
+19:22:56.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:23:02.432 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:23:03.869 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:23:03.873 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:23:12.618 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:23:13.100 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:23:13.136 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:23:14.178 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product
+19:28:12.242 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\SeleniumTest1\SeleniumAutomationTestNG\master.xml
+
+19:28:19.634 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - ***** Starting TS04_TC01_Search and View Product *****
+19:28:20.980 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Clicked on Signup / Login button
+19:28:20.984 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Providing Email and Password
+19:28:30.966 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Search result heading
+19:28:31.326 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Expected number of products displayed
+19:28:31.396 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify Product Names
+19:28:32.477 [main] INFO  testCases.TS04_TC01_SearchAndViewProduct - Verify View Product

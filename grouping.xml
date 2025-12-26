@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5">
+
+ <groups>
+   <run>
+      <include name="Sanity"/>
+      <!-- <include name="Regression"/>
+      <include name="Master"/>
+      <include name="DataDriven"/> -->
+      <!--- <exclude name="Sanity"/> --> 
+   </run>
+ </groups>
+ 
+ <listeners>
+ <listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+
+  <test thread-count="5" name="Test">
+  <parameter name="browser" value="chrome"></parameter>
+     <parameter name="os" value="windows"></parameter>
+    <classes>
+      <class name="testCases.TS09_TC01_ContactUs"/>
+      <class name="testCases.TS07_TC01_ViewCartAndCheckout"/>
+      <class name="testCases.TS05_TC01_AddProductsToCart"/>
+      <class name="testCases.TS06_TC01_RemoveProductFromCart"/>
+      <class name="testCases.TS10_TC01_AddReviewOnProduct"/>
+      <class name="testCases.TS08_TC01_SubscriptionHomePage"/>
+      <class name="testCases.TS03_TC01_Logout"/>
+      <class name="testCases.TS02_TC01_Login"/>
+      <class name="testCases.TS04_TC01_SearchAndViewProduct"/>
+      <class name="testCases.TS02_TC02_LoginDataDriven"/>
+      <class name="testCases.TS01_TC01_SignUpAndDeleteAccount"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
